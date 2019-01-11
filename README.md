@@ -11,7 +11,7 @@ pip2 install requests
 git clone https://github.com/IlayTamvan/hnov7.git
 cd hnov7
 unzip hnov7.zip
-rm rf hnov7
+rm rf hnov7.zip
 python2 hnov7.py
 ```
 
